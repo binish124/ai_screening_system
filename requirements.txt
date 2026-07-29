@@ -1,0 +1,12 @@
+# Data handling
+pandas
+numpy
+
+# Environment & API
+python-dotenv
+requests
+
+# Testing & Linting (Code Standards)
+pytest
+black
+pylint
