@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Job Profile",
+  "type": "object",
+  "properties": {
+    "role_details": {
+      "type": "object",
+      "properties": {
+        "designation": { "type": "string" },
+        "department": { "type": "string" }
+      },
+      "required": ["designation"]
+    },
+    "required_skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "is_mandatory": { "type": "boolean" }
+        },
+        "required": ["name", "is_mandatory"]
+      }
+    },
+    "experience_requirements": {
+      "type": "object",
+      "properties": {
+        "minimum_years": { "type": "integer" }
+      }
+    }
+  },
+  "required": ["role_details", "required_skills"]
+}
