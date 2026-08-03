@@ -1,3 +1,6 @@
+pdfplumber
+python-docx
+
 # Data handling
 pandas
 numpy
