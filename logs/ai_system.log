@@ -1,1 +1,2 @@
 2026-07-29 16:58:04,086 - test_logger - INFO - Test log entry
+2026-08-04 10:47:14,187 - JDParser - INFO - Successfully saved structured JD output to data/sample_jds/parsed_jd_output.json

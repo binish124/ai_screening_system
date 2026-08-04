@@ -1,0 +1,27 @@
+{
+  "role_details": {
+    "designation": "Data Scientist",
+    "department": "Engineering"
+  },
+  "required_skills": [
+    {
+      "name": "Python",
+      "is_mandatory": true
+    },
+    {
+      "name": "Machine Learning",
+      "is_mandatory": true
+    },
+    {
+      "name": "AWS",
+      "is_mandatory": true
+    }
+  ],
+  "experience_requirements": {
+    "minimum_years": 4
+  },
+  "education_requirements": [
+    "Bachelor",
+    "Degree"
+  ]
+}
