@@ -1,2 +1,3 @@
 2026-07-29 16:58:04,086 - test_logger - INFO - Test log entry
 2026-08-04 10:47:14,187 - JDParser - INFO - Successfully saved structured JD output to data/sample_jds/parsed_jd_output.json
+2026-08-06 09:59:19,203 - SectionSegmenter - INFO - Saved labeled resume sections to data/cleaned_resumes/labeled_sample.json
