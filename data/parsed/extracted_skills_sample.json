@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Machine Learning",
+    "confidence": 1.0
+  },
+  {
+    "name": "Python",
+    "confidence": 0.9
+  },
+  {
+    "name": "Project Management",
+    "confidence": 0.9
+  },
+  {
+    "name": "MongoDB",
+    "confidence": 0.85
+  },
+  {
+    "name": "Express.js",
+    "confidence": 0.85
+  },
+  {
+    "name": "React",
+    "confidence": 0.85
+  },
+  {
+    "name": "Node.js",
+    "confidence": 0.85
+  }
+]
