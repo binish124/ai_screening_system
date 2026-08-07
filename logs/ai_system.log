@@ -2,3 +2,4 @@
 2026-08-04 10:47:14,187 - JDParser - INFO - Successfully saved structured JD output to data/sample_jds/parsed_jd_output.json
 2026-08-06 09:59:19,203 - SectionSegmenter - INFO - Saved labeled resume sections to data/cleaned_resumes/labeled_sample.json
 2026-08-06 10:26:29,675 - SkillExtractor - INFO - Successfully saved structured skill output to data/parsed/extracted_skills_sample.json
+2026-08-07 11:16:21,304 - ExperienceEngine - INFO - Successfully saved structured experience object to data/parsed/structured_experience_sample.json

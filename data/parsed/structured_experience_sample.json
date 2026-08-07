@@ -1,0 +1,26 @@
+{
+  "target_role_evaluated": "Machine Learning Engineer",
+  "experience_metrics": {
+    "roles": [
+      {
+        "job_title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "duration_string": "Jan 2020 - Dec 2022",
+        "calculated_years": 2,
+        "relevance_score": 0.3
+      },
+      {
+        "job_title": "Data Analyst",
+        "company": "DataCorp",
+        "duration_string": "Mar 2023 - Present",
+        "calculated_years": 3,
+        "relevance_score": 0.85
+      }
+    ],
+    "total_experience_years": 5,
+    "career_flags": {
+      "has_employment_gap": false,
+      "has_overlapping_roles": false
+    }
+  }
+}
