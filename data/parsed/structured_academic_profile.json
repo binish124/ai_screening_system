@@ -1,0 +1,22 @@
+{
+  "education": {
+    "degree_type": "Bachelor's",
+    "field_of_study": "Computer Science",
+    "institution": "State University",
+    "graduation_year": 2025
+  },
+  "certifications": [
+    {
+      "certification_name": "Advanced Python Programming Certification",
+      "relevance_category": "Software Development"
+    },
+    {
+      "certification_name": "Google Data Science Professional Certificate",
+      "relevance_category": "Data & Analytics"
+    },
+    {
+      "certification_name": "First Aid CPR",
+      "relevance_category": "General / Other"
+    }
+  ]
+}
